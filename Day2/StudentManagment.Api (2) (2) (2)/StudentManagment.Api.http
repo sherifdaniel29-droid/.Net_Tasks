@@ -1,0 +1,21 @@
+@StudentManagment.Api_HostAddress = http://localhost:5053
+###
+GET http://localhost:5053/api/student/welcome
+
+###
+GET http://localhost:5053/api/student/1
+
+###
+GET http://localhost:5053/api/student/search
+
+###
+GET http://localhost:5053/api/student/filter-by-age
+
+###
+POST http://localhost:5053/api/student
+
+###
+PUT http://localhost:5053/api/student/1
+
+###
+DELETE http://localhost:5053/api/student/1
