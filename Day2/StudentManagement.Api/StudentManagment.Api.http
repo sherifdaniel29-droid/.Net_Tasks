@@ -19,3 +19,19 @@ PUT http://localhost:5053/api/student/1
 
 ###
 DELETE http://localhost:5053/api/student/1
+
+###
+GET http://localhost:5053//api/departments
+
+###
+GET http://localhost:5053//api/departments/1
+
+###
+POST http://localhost:5053/api/departments
+
+###
+PUT http://localhost:5053/api/departments/1
+
+###
+DELETE http://localhost:5053/api/departments/1
+
